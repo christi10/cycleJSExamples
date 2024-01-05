@@ -1,5 +1,4 @@
-~_ Implemented simple examples like counter,checkbox and fetching data from an API in CYCLE.JS .
-~_
+A) Implemented simple examples like counter,checkbox and fetching data from an API in CYCLE.JS .
 
 1. cd to /Folder you clone the project and
 2. Run npm start
